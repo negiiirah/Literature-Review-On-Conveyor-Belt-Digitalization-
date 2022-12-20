@@ -15,4 +15,4 @@ The search results were obtained on 19th December 2022.
 3. For Springer the results were filtered using the Content type as Conference Proceedings, Article, Conference Paper, Reference Work Entry and Reference work. It was done so that we could avoid Content type Chapter and Book.The column on the left side can be used for filtering the content type.
 ![alt text](https://github.com/ETCE-LAB/sustainable-daos-survey/blob/main/springer_result.png?raw=true)
 4. The download button on the top right can be used to download the CSV files.
-5. The file can be found here 
+5. The search results can be found [ here]( https://github.com/ETCE-LAB/sustainable-daos-survey/blob/main/springer.csv)
