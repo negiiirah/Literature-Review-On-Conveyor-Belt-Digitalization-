@@ -8,7 +8,7 @@ The search results were obtained on 19th December 2022.
 - Search string used for academic search:  "autonomous organization" AND sustainable
 - Search string used for non-academic search:  "autonomous organization" AND ("sustainable" or "sustainability" or "climate")
 
-# Steps for obtaining search results in Springer:
+## Steps for obtaining search results in Springer:
 1. Choose the advanced search option
 2. Enter the search string  "autonomous-organization" sustainable into the field for "with all words" and set the start year as 2017 and end year as 2023 as shown below. 
 ![alt text](https://github.com/ETCE-LAB/sustainable-daos-survey/blob/main/springer.png?raw=true)
@@ -17,9 +17,13 @@ The search results were obtained on 19th December 2022.
 4. The download button on the top right can be used to download the CSV files.
 5. The search results can be found [ here]( https://github.com/ETCE-LAB/sustainable-daos-survey/blob/main/springer.csv)
 
-# Steps for obtaining search results in IEEE:
+## Steps for obtaining search results in IEEE:
 1. Choose the advanced search option
 2. Enter the search term in the 2 text fields as shown below with search in Full Text Only and year from 2017 to 2023 as shown below.
 ![alt text](https://github.com/ETCE-LAB/sustainable-daos-survey/blob/main/ieee.png?raw=true)
 3. On the top right choose the export option and click format as CSV.
 4. The search results can be found [ here]( https://github.com/ETCE-LAB/sustainable-daos-survey/blob/main/ieee.csv)
+
+#### Note: Google Scholar and Scopus the tool Publish and Perish is used to obtain the search results
+
+
