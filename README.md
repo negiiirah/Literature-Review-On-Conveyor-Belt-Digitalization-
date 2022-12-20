@@ -21,3 +21,5 @@ The search results were obtained on 19th December 2022.
 1. Choose the advanced search option
 2. Enter the search term in the 2 text fields as shown below with search in Full Text Only and year from 2017 to 2023 as shown below.
 ![alt text](https://github.com/ETCE-LAB/sustainable-daos-survey/blob/main/ieee.png?raw=true)
+3. On the top right choose the export option and click format as CSV.
+4. The search results can be found [ here]( https://github.com/ETCE-LAB/sustainable-daos-survey/blob/main/ieee.csv)
