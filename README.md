@@ -16,3 +16,8 @@ The search results were obtained on 19th December 2022.
 ![alt text](https://github.com/ETCE-LAB/sustainable-daos-survey/blob/main/springer_result.png?raw=true)
 4. The download button on the top right can be used to download the CSV files.
 5. The search results can be found [ here]( https://github.com/ETCE-LAB/sustainable-daos-survey/blob/main/springer.csv)
+
+# Steps for obtaining search results in IEEE:
+1. Choose the advanced search option
+2. Enter the search term in the 2 text fields as shown below with search in Full Text Only and year from 2017 to 2023 as shown below.
+![alt text](https://github.com/ETCE-LAB/sustainable-daos-survey/blob/main/ieee.png?raw=true)
