@@ -10,5 +10,6 @@ The search results were obtained on 19th December 2022.
 
 # Steps for obtaining search results in Springer:
 1. Choose the advanced search option
-2. 
+2. ![alt text](https://github.com/ETCE-LAB/sustainable-daos-survey/blob/main/springer.png?raw=true)
+ 
 
