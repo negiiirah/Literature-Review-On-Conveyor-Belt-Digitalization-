@@ -24,6 +24,6 @@ The search results were obtained on 19th December 2022.
 3. On the top right choose the export option and click format as CSV.
 4. The search results can be found [ here]( https://github.com/ETCE-LAB/sustainable-daos-survey/blob/main/ieee.csv)
 
-#### Note: Google Scholar and Scopus the tool Publish and Perish is used to obtain the search results
-
+#### Note: Google Scholar and Scopus the tool Publish and Perish is used to obtain the search results.
+The tool can be found here [ here](https://harzing.com/resources/publish-or-perish) 
 
