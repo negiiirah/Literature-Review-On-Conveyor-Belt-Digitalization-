@@ -25,5 +25,8 @@ The search results were obtained on 19th December 2022.
 4. The search results can be found [ here]( https://github.com/ETCE-LAB/sustainable-daos-survey/blob/main/ieee.csv)
 
 #### Note: Google Scholar and Scopus the tool Publish and Perish is used to obtain the search results.
-The tool can be found here [ here](https://harzing.com/resources/publish-or-perish) 
+The tool can be found [ here](https://harzing.com/resources/publish-or-perish) 
+
+Below given is the starting page for Publish and Perish 
+[ here](https://harzing.com/resources/publish-or-perish)
 
