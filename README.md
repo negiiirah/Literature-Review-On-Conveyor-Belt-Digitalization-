@@ -28,5 +28,21 @@ The search results were obtained on 19th December 2022.
 The tool can be found [ here](https://harzing.com/resources/publish-or-perish) 
 
 Below given is the starting page for Publish and Perish 
-[ here](https://harzing.com/resources/publish-or-perish)
+![alt text](https://github.com/ETCE-LAB/sustainable-daos-survey/blob/main/homepage_PaP.jpeg?raw=true)
+
+Publish and Perish capable of retrieving from other search engines as you can see above. We will be using for Google Scholar and Scopus.
+
+## Steps for obtaining search results in Scopus:
+1. For using Scopus in Publish and Perish we need a API Key. Login to Scopus and the key can be obtained [ here](https://dev.elsevier.com/)
+2. The Publish and Perish application will ask for the API key. Then input the API key.
+3. The search string is inserted into the keywords section and year is set from 2017 to 2023 as shown below.
+![alt text](https://github.com/ETCE-LAB/sustainable-daos-survey/blob/main/scopus_PaP.jpeg?raw=true)
+4. In the middle right of the application there is a button to save results. Choose as CSV.
+5. The search results can be found [ here]( https://github.com/ETCE-LAB/sustainable-daos-survey/blob/main/scopus.csv)
+
+## Steps for obtaining search results in Google Scholar:
+1. Google Scholar does not require any API key.The search string is inserted into the keywords section and year is set from 2017 to 2023 as shown below.
+![alt text](https://github.com/ETCE-LAB/sustainable-daos-survey/blob/main/google_scholar_PaP.jpeg?raw=true)
+2. In the middle right of the application there is a button to save results. Choose as CSV.
+3. The search results can be found [ here]( https://github.com/ETCE-LAB/sustainable-daos-survey/blob/main/google_scholar.csv)
 
