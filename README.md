@@ -44,7 +44,7 @@ Publish and Perish capable of retrieving from other search engines as you can se
 3. The search string is inserted into the keywords section and year is set from 2017 to 2023 as shown below.
 
 ![alt text](https://github.com/ETCE-LAB/sustainable-daos-survey/blob/main/scopus_PaP.jpeg?raw=true)
-4. In the middle right of the application there is a button to save results. Choose as CSV.
+4. In the middle right of the application there is a button to save results. Choose as CSV.                                                                  
 5. The search results can be found [ here]( https://github.com/ETCE-LAB/sustainable-daos-survey/blob/main/scopus.csv)
 
 ## Steps for obtaining search results in Google Scholar:
