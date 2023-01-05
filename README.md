@@ -51,6 +51,6 @@ Publish and Perish capable of retrieving from other search engines as you can se
 1. Google Scholar does not require any API key.The search string is inserted into the keywords section and year is set from 2017 to 2023 as shown below.
 
 ![alt text](https://github.com/ETCE-LAB/sustainable-daos-survey/blob/main/google_scholar_PaP.jpeg?raw=true)
-2. In the middle right of the application there is a button to save results. Choose as CSV.
+2. In the middle right of the application there is a button to save results. Choose as CSV.                                                                   
 3. The search results can be found [ here]( https://github.com/ETCE-LAB/sustainable-daos-survey/blob/main/google_scholar.csv)
 
