@@ -1,5 +1,5 @@
 # Resources for Systematic Literature Review of Sustainability DAO's
-This project will mention the steps that were followed for obtaining the resources for Systematic Literature Review of Sustainability DAO's.
+This project mentions the steps that were followed for obtaining the resources for Systematic Literature Review of Sustainability DAO's.
 The search results were obtained on 19th December 2022.
 - Academic Search Engines used:  IEEE, Springer, Google scholar and Scopus
 - Non-academic Search Engines used: Google search
