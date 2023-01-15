@@ -13,6 +13,8 @@ The search results were obtained on 19th December 2022.
 | [IEEE](#IEEE)      | 53     |
 | [Scopus](#Scopus)      | 9     |
 
+Note:Google Scholar and Scopus the tool [Publish and Perish](#Publish_perish) is used to obtain the search results
+
 <a name="Springer"></a>
 ## Steps for obtaining search results in Springer:
 1. Choose the advanced search option
@@ -38,6 +40,7 @@ The search results were obtained on 19th December 2022.
 
 4. The search results can be found [ here]( https://github.com/ETCE-LAB/sustainable-daos-survey/blob/main/ieee.csv)
 
+<a name="Publish_perish"></a>
 #### Note: Google Scholar and Scopus the tool Publish and Perish is used to obtain the search results.
 The tool can be found [ here](https://harzing.com/resources/publish-or-perish) 
 
