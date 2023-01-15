@@ -13,7 +13,7 @@ The search results were obtained on 19th December 2022.
 | [IEEE](#IEEE)      | 53     |
 | [Scopus](#Scopus)      | 9     |
 
-Note:Google Scholar and Scopus the tool [Publish and Perish](#Publish_perish) is used to obtain the search results
+Note:Google Scholar and Scopus uses the tool [Publish and Perish](#Publish_perish) to obtain the search results
 
 <a name="Springer"></a>
 ## Steps for obtaining search results in Springer:
