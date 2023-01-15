@@ -4,16 +4,16 @@ The search results were obtained on 19th December 2022.
 - Academic Search Engines used:  IEEE, Springer, Google scholar and Scopus
 - Search string used for academic search:  "autonomous organization" AND sustainable
 
-## Table containing number of search results results
+## Table containing number of search results 
 
 | Search Engine  | Number of results  | 
 |:---------:|:---------:|
-| Springer    | 353    |
-| IEEE      | 53     |
-| Google Scholar      | 982     |
-| Scopus      | 9     |
+|  [Google Scholar](#Google-scholar)      | 982     |
+| [Springer](#Springer)    | 353    |
+| [IEEE](#IEEE)      | 53     |
+| [Scopus](#Scopus)      | 9     |
 
-
+<a name="Springer"></a>
 ## Steps for obtaining search results in Springer:
 1. Choose the advanced search option
 2. Enter the search string  "autonomous-organization" sustainable into the field for "with all words" and set the start year as 2017 and end year as 2023 as shown below. 
@@ -26,6 +26,7 @@ The search results were obtained on 19th December 2022.
 4. The download button on the top right can be used to download the CSV files.                                                                            
 5. The search results can be found [ here]( https://github.com/ETCE-LAB/sustainable-daos-survey/blob/main/springer.csv)
 
+<a name="IEEE"></a>
 ## Steps for obtaining search results in IEEE:
 1. Choose the advanced search option
 2. Enter the search term in the 2 text fields as shown below with search in Full Text Only and year from 2017 to 2023 as shown below.
@@ -46,7 +47,9 @@ Below given is the starting page for Publish and Perish
 
 Publish and Perish capable of retrieving from other search engines as you can see above. We will be using for Google Scholar and Scopus.
 
+<a name="Scopus"></a>
 ## Steps for obtaining search results in Scopus:
+
 1. For using Scopus in Publish and Perish we need a API Key. Login to Scopus and the key can be obtained [ here](https://dev.elsevier.com/)
 2. The Publish and Perish application will ask for the API key. Then input the API key.
 3. The search string is inserted into the keywords section and year is set from 2017 to 2023 as shown below.
@@ -55,7 +58,9 @@ Publish and Perish capable of retrieving from other search engines as you can se
 4. In the middle right of the application there is a button to save results. Choose as CSV.                                                                  
 5. The search results can be found [ here]( https://github.com/ETCE-LAB/sustainable-daos-survey/blob/main/scopus.csv)
 
+<a name="Google-scholar"></a>
 ## Steps for obtaining search results in Google Scholar:
+
 1. Google Scholar does not require any API key.The search string is inserted into the keywords section and year is set from 2017 to 2023 as shown below.
 
 ![alt text](https://github.com/ETCE-LAB/sustainable-daos-survey/blob/main/google_scholar_PaP.jpeg?raw=true)
