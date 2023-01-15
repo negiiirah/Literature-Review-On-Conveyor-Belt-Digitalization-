@@ -4,7 +4,7 @@ The search results were obtained on 19th December 2022.
 - Academic Search Engines used:  IEEE, Springer, Google scholar and Scopus
 - Search string used for academic search:  "autonomous organization" AND sustainable
 
-## Table containing number of search results 
+## Search Engine Results
 
 | Search Engine  | Number of results  | 
 |:---------:|:---------:|
@@ -13,7 +13,7 @@ The search results were obtained on 19th December 2022.
 | [IEEE](#IEEE)      | 53     |
 | [Scopus](#Scopus)      | 9     |
 
-Note:Google Scholar and Scopus uses the tool [Publish and Perish](#Publish_perish) to obtain the search results
+Note:Google Scholar and Scopus results are obtained using the tool [Publish and Perish](#Publish_perish).
 
 <a name="Springer"></a>
 ## Steps for obtaining search results in Springer:
